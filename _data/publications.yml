@@ -4,7 +4,7 @@ main:
   # 2026 Publications
   # ==========================================
 
-  - title: "Rethinking the Adaptation of Vision Foundation Models for Efficient Cell Segmentation"
+  - title: "MicroBT: Centroid-Guided Synergistic Learning for Multi-Modal Micro Brain Tumor Segmentation and Counting"
     authors: "Zhenye Lou*, <u>Qing Xu</u>*, Stefanie Thust, Dorothee P. Auer, Zhen Chen, Wenting Duan"
     conference_short: "BMVC 2026"
     conference: "The 37th British Machine Vision Conference (BMVC), 2026"
