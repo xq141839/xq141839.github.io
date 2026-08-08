@@ -3,6 +3,10 @@
 <div class="news-scroll" aria-label="News archive">
   <ul class="news-list">
     <li class="news-item">
+      <span class="news-date">Aug. 2026</span>
+      <span class="news-text">One paper has been accepted by <strong>BMVC 2026</strong>.</span>
+    </li>
+    <li class="news-item">
       <span class="news-date">Jun. 2026</span>
       <span class="news-text">Two papers have been accepted by <strong>MICCAI 2026</strong>.</span>
     </li>
