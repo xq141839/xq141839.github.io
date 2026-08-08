@@ -5,6 +5,11 @@ main:
   # ==========================================
 
   - title: "Rethinking the Adaptation of Vision Foundation Models for Efficient Cell Segmentation"
+    authors: "Zhenye Lou*, <u>Qing Xu</u>*, Stefanie Thust, Dorothee P. Auer, Zhen Chen, Wenting Duan"
+    conference_short: "BMVC 2026"
+    conference: "The 37th British Machine Vision Conference (BMVC), 2026"
+
+  - title: "Rethinking the Adaptation of Vision Foundation Models for Efficient Cell Segmentation"
     authors: "<u>Qing Xu</u>, Xiangjian He, Wenting Duan, Jiebo Luo, Zhen Chen"
     conference_short: "MICCAI 2026"
     conference: "International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI), 2026"
