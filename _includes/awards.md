@@ -4,5 +4,5 @@
   <h4 style="display:inline; margin:0 10px 0 0;">Competitions:</h4>
 </div>
 <ul style="margin:0 0 5px; padding-left:20px;">
-  <li><autocolor>🏆 1st Place in the ISBI 2026 Foundation Model Challenge for Ultrasound Image Analysis</autocolor></li>
+  <li><autocolor>🏆 1st Place in the ISBI 2026 Foundation Model Challenge for Ultrasound Image Analysis <b>*Team Leader</b></autocolor></li>
 </ul>
