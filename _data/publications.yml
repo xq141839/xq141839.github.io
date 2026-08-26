@@ -3,6 +3,15 @@ main:
   # ==========================================
   # 2026 Publications
   # ==========================================
+    
+  - title: "Synergistic Modality-and-Slice Memory Framework for Cross-Modal 3D Brain Tumor Segmentation"
+    authors: "Yuxiang Luo*, <u>Qing Xu</u>*, Hai Huang, Yuqi Ouyang, Xiangjian He, Zhen Chen, Wenting Duan, Jiebo Luo"
+    conference_short: "IEEE Transactions on Multimedia 2026"
+    selected: true
+
+  - title: "Cesarean Scar Defect Segmentation in Transvaginal Ultrasound Images: a Dataset and Benchmark"
+    authors: "Yuan Tian, Yue Li, Wei Xia, Tianyu Xu, Jian Zhang, Liye Shi, Jing Liu, Yang Wang, Ming Liu, <u>Qing Xu</u>, Yixuan Zhang, Maggie M He, Xiangjian He"
+    conference_short: "Scientific Data"
 
   - title: "MicroBT: Centroid-Guided Synergistic Learning for Multi-Modal Micro Brain Tumor Segmentation and Counting"
     authors: "Zhenye Lou*, <u>Qing Xu</u>*, Stefanie Thust, Dorothee P. Auer, Zhen Chen, Wenting Duan"
