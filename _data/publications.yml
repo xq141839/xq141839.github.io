@@ -6,12 +6,12 @@ main:
     
   - title: "Synergistic Modality-and-Slice Memory Framework for Cross-Modal 3D Brain Tumor Segmentation"
     authors: "Yuxiang Luo*, <u>Qing Xu</u>*, Hai Huang, Yuqi Ouyang, Xiangjian He, Zhen Chen, Wenting Duan, Jiebo Luo"
-    conference_short: "IEEE Transactions on Multimedia 2026"
+    conference: "IEEE Transactions on Multimedia 2026"
     selected: true
 
   - title: "Cesarean Scar Defect Segmentation in Transvaginal Ultrasound Images: a Dataset and Benchmark"
     authors: "Yuan Tian, Yue Li, Wei Xia, Tianyu Xu, Jian Zhang, Liye Shi, Jing Liu, Yang Wang, Ming Liu, <u>Qing Xu</u>, Yixuan Zhang, Maggie M He, Xiangjian He"
-    conference_short: "Scientific Data"
+    conference: "Scientific Data"
 
   - title: "MicroBT: Centroid-Guided Synergistic Learning for Multi-Modal Micro Brain Tumor Segmentation and Counting"
     authors: "Zhenye Lou*, <u>Qing Xu</u>*, Stefanie Thust, Dorothee P. Auer, Zhen Chen, Wenting Duan"
@@ -38,7 +38,7 @@ main:
     # selected: true
 
   - title: "UniUltra: Interactive Parameter-Efficient SAM2 for Universal Ultrasound Segmentation"
-    authors: "Yue Li*, <u>Qing Xu</u>*, Yixuan Zhang, Xiangjian He, Qian Zhang, Yuan Yao, Fiseha B Tesema, Xin Chen, Ruili Wang, Zhen Chen, et al."
+    authors: "Yue Li*, <u>Qing Xu</u>*, Yixuan Zhang, Xiangjian He, Qian Zhang, Yuan Yao, Fiseha B Tesema, Xin Chen, Ruili Wang, Zhen Chen, Changwen Chen"
     conference_short: "TMM 2026"
     conference: "IEEE Transactions on Multimedia, 2026"
     selected: true
@@ -168,9 +168,9 @@ main:
   # ==========================================
 
   - title: "DCSAU-Net: A deeper and more compact split-attention U-Net for medical image segmentation"
-    authors: "<u>Qing Xu</u>, Zhicheng Ma, Wenting Duan, et al."
+    authors: "<u>Qing Xu</u>, Zhicheng Ma, Wenting Duan."
     conference_short: "CIBM 2023"
-    conference: "Computers in Biology and Medicine"
+    conference: "Computers in Biology and Medicine <u>(ESI Highly Cited Paper, Top 1%)</u>"
 
   - title: "Sppnet: A single-point prompt network for nuclei image segmentation"
     authors: "<u>Qing Xu</u>, Wenwei Kuang, Zeyu Zhang, Xueyao Bao, Haoran Chen, Wenting Duan"
