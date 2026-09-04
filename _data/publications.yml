@@ -3,6 +3,11 @@ main:
   # ==========================================
   # 2026 Publications
   # ==========================================
+
+  - title: "FreqDINO++: A Frequency-Guided Multi-Task Routing Vision Foundation Model for Universal Ultrasound Analysis"
+    authors: "<u>Qing Xu</u>*, Yixuan Zhang*, Yue Li*, Xiangjian He, Qian Zhang, Mainul Haque, Rong Qu, Wenting Duan, Jieyun Bai, Zhen Chen"
+    conference: "IEEE Transactions on Biomedical Engineering 2026"
+    selected: true
     
   - title: "Synergistic Modality-and-Slice Memory Framework for Cross-Modal 3D Brain Tumor Segmentation"
     authors: "Yuxiang Luo*, <u>Qing Xu</u>*, Hai Huang, Yuqi Ouyang, Xiangjian He, Zhen Chen, Wenting Duan, Jiebo Luo"
@@ -32,7 +37,7 @@ main:
     selected: true
 
   - title: "SP-Det: Self-Prompted Dual-Text Fusion for Generalized Multi-Label Lesion Detection"
-    authors: "<u>Qing Xu</u>, Yanqian Wang, Xiangjian He, Yue Li, Yixuan Zhang, Rong Qu, Wenting Duan, Zhen Chen"
+    authors: "<u>Qing Xu</u>, Yanqian Wang*, Xiangjian He, Yue Li, Yixuan Zhang, Rong Qu, Wenting Duan, Zhen Chen"
     conference_short: "KBS 2026"
     conference: "Knowledge-Based Systems, 2026"
     # selected: true
