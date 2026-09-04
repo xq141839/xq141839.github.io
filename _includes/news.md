@@ -3,6 +3,10 @@
 <div class="news-scroll" aria-label="News archive">
   <ul class="news-list">
     <li class="news-item">
+      <span class="news-date">Sep. 2026</span>
+      <span class="news-text">One paper was accepted by <strong>TBME</strong>.</span>
+    </li>
+    <li class="news-item">
       <span class="news-date">Aug. 2026</span>
       <span class="news-text">One paper was accepted by <strong>TMM</strong>.</span>
     </li>
