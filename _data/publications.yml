@@ -8,6 +8,11 @@ main:
     authors: "<u>Qing Xu</u>*, Yixuan Zhang*, Yue Li*, Xiangjian He, Qian Zhang, Mainul Haque, Rong Qu, Wenting Duan, Jieyun Bai, Zhen Chen"
     conference: "IEEE Transactions on Biomedical Engineering 2026"
     selected: true
+
+  - title: "Quantifying the Plausibility Gap in Generative AI for Surgical Video Generation with Expert Assessment"
+    authors: "Zhen Chen, <u>Qing Xu</u>, Jinlin Wu, Biao Yang, Yuhao Zhai, Geng Guo, Jing Zhang, Yinlu Ding, Nassir Navab, Jiebo Luo"
+    conference: "npj Digital Medicine 2026"
+    selected: true
     
   - title: "Synergistic Modality-and-Slice Memory Framework for Cross-Modal 3D Brain Tumor Segmentation"
     authors: "Yuxiang Luo*, <u>Qing Xu</u>*, Hai Huang, Yuqi Ouyang, Xiangjian He, Zhen Chen, Wenting Duan, Jiebo Luo"
