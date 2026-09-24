@@ -4,6 +4,10 @@
   <ul class="news-list">
     <li class="news-item">
       <span class="news-date">Sep. 2026</span>
+      <span class="news-text">I passed the Ph.D. Viva</strong>.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">Sep. 2026</span>
       <span class="news-text">One paper was accepted by <strong>npj Digital Medicine</strong>.</span>
     </li>
     <li class="news-item">
