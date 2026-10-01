@@ -4,6 +4,10 @@
   <ul class="news-list">
     <li class="news-item">
       <span class="news-date">Sep. 2026</span>
+      <span class="news-text">We achieved <strong>1st place in the MICCAI 2026 Brain Tumor Segmentation - Metastases (BraTS-METS) Challenge</strong>!</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">Sep. 2026</span>
       <span class="news-text">We achieved <strong>1st place in the MICCAI 2026 MultiBypass Surgical Action Triplet Challenge</strong>!</span>
     </li>
     <li class="news-item">
