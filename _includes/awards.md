@@ -8,5 +8,5 @@
   <li><autocolor>🏆 1st Place in the MICCAI 2026 MultiBypass Challenge, <b>*Team Leader</b>.</autocolor></li>
   <li><autocolor>🏆 1st Place in the ISBI 2026 FMC_UIA Challenge, <b>*Team Leader</b>.</autocolor></li>
   <li><autocolor>4th Place in the MICCAI 2026 FoundUS Challenge, <b>*Team Leader</b>.</autocolor></li>
-  <li><autocolor>9th Place in the MICCAI 2026 CMR-MULTI Challenge, <b>*Team Leader</b>.</autocolor></li>
+  <li><autocolor>10th Place in the MICCAI 2026 CMR-MULTI Challenge, <b>*Team Leader</b>.</autocolor></li>
 </ul>
