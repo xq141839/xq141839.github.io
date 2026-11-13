@@ -6,12 +6,14 @@ main:
 
   - title: "HER-Seg: Holistically Efficient Segmentation for High-Resolution Medical Images"
     authors: "<u>Qing Xu</u>, Zhenye Lou, Chenxin Li, Yue Li, Xiangjian He, Tesema Fiseha Berhanu, Rong Qu, Wenting Duan, Zhen Chen"
-    conference: "Medical Image Analysis"
+    conference: "Medical Image Analysis, 2026"
+    code: https://github.com/xq141839/HER-Seg
     selected: true
 
   - title: "FreqDINO++: A Frequency-Guided Multi-Task Routing Vision Foundation Model for Universal Ultrasound Analysis"
     authors: "<u>Qing Xu</u>*, Yixuan Zhang*, Yue Li*, Xiangjian He, Qian Zhang, Mainul Haque, Rong Qu, Wenting Duan, Jieyun Bai, Zhen Chen"
-    conference: "IEEE Transactions on Biomedical Engineering 2026"
+    conference: "IEEE Transactions on Biomedical Engineering, 2026"
+    code: https://github.com/MingLang-FD/FreqDINO-Plus
     selected: true
 
   - title: "Quantifying the Plausibility Gap in Generative AI for Surgical Video Generation with Expert Assessment"
@@ -21,12 +23,12 @@ main:
     
   - title: "Synergistic Modality-and-Slice Memory Framework for Cross-Modal 3D Brain Tumor Segmentation"
     authors: "Yuxiang Luo*, <u>Qing Xu</u>*, Hai Huang, Yuqi Ouyang, Xiangjian He, Zhen Chen, Wenting Duan, Jiebo Luo"
-    conference: "IEEE Transactions on Multimedia 2026"
+    conference: "IEEE Transactions on Multimedia, 2026"
     selected: true
 
   - title: "Cesarean Scar Defect Segmentation in Transvaginal Ultrasound Images: a Dataset and Benchmark"
     authors: "Yuan Tian, Yue Li, Wei Xia, Tianyu Xu, Jian Zhang, Liye Shi, Jing Liu, Yang Wang, Ming Liu, <u>Qing Xu</u>, Yixuan Zhang, Maggie M He, Xiangjian He"
-    conference: "Scientific Data"
+    conference: "Scientific Data, 2026"
 
   - title: "MicroBT: Centroid-Guided Synergistic Learning for Multi-Modal Micro Brain Tumor Segmentation and Counting"
     authors: "Zhenye Lou*, <u>Qing Xu</u>*, Stefanie Thust, Dorothee P. Auer, Zhen Chen, Wenting Duan"
@@ -43,7 +45,7 @@ main:
 
   - title: "RASP: Bridging the Long-Tail Gap in Surgical Video Understanding via Retrieval-Augmented Perception"
     authors: "Yuxiang Luo*, <u>Qing Xu</u>*, Yuqi Ouyang, Zhen Chen"
-    conference_short: "MICCAI 2026"
+    conference_short: "MICCAI, 2026"
     conference: "International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI), 2026"
     selected: true
 
@@ -104,7 +106,6 @@ main:
     conference: "IEEE Transactions on Medical Imaging, 2025"
     pdf: "https://ieeexplore.ieee.org/document/11299102"
     code: "https://github.com/xq141839/Co-Seg-Plus"
-    page: "#"
     selected: true
 
   - title: "De-LightSAM: Modality-Decoupled Lightweight SAM for Generalizable Medical Segmentation"
