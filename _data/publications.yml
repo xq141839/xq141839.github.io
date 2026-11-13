@@ -187,7 +187,7 @@ main:
   - title: "DCSAU-Net: A deeper and more compact split-attention U-Net for medical image segmentation"
     authors: "<u>Qing Xu</u>, Zhicheng Ma, Wenting Duan."
     conference_short: "CIBM 2023"
-    conference: "Computers in Biology and Medicine <u>(ESI Highly Cited Paper, 500+ Citations)</u>"
+    conference: "Computers in Biology and Medicine, 2023 <u>(ESI Highly Cited Paper, 500+ Citations)</u>"
     selected: true
 
   - title: "Sppnet: A single-point prompt network for nuclei image segmentation"
