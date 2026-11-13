@@ -18,7 +18,7 @@ main:
 
   - title: "Quantifying the Plausibility Gap in Generative AI for Surgical Video Generation with Expert Assessment"
     authors: "Zhen Chen, <u>Qing Xu</u>, Jinlin Wu, Biao Yang, Yuhao Zhai, Geng Guo, Jing Zhang, Yinlu Ding, Nassir Navab, Jiebo Luo"
-    conference: "npj Digital Medicine 2026"
+    conference: "npj Digital Medicine, 2026"
     selected: true
     
   - title: "Synergistic Modality-and-Slice Memory Framework for Cross-Modal 3D Brain Tumor Segmentation"
