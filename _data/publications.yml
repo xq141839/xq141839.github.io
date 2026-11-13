@@ -4,6 +4,11 @@ main:
   # 2026 Publications
   # ==========================================
 
+  - title: "HER-Seg: Holistically Efficient Segmentation for High-Resolution Medical Images"
+    authors: "<u>Qing Xu</u>, Zhenye Lou, Chenxin Li, Yue Li, Xiangjian He, Tesema Fiseha Berhanu, Rong Qu, Wenting Duan, Zhen Chen"
+    conference: "Medical Image Analysis"
+    selected: true
+
   - title: "FreqDINO++: A Frequency-Guided Multi-Task Routing Vision Foundation Model for Universal Ultrasound Analysis"
     authors: "<u>Qing Xu</u>*, Yixuan Zhang*, Yue Li*, Xiangjian He, Qian Zhang, Mainul Haque, Rong Qu, Wenting Duan, Jieyun Bai, Zhen Chen"
     conference: "IEEE Transactions on Biomedical Engineering 2026"
@@ -27,6 +32,7 @@ main:
     authors: "Zhenye Lou*, <u>Qing Xu</u>*, Stefanie Thust, Dorothee P. Auer, Zhen Chen, Wenting Duan"
     conference_short: "BMVC 2026"
     conference: "The 37th British Machine Vision Conference (BMVC), 2026"
+    selected: true
 
   - title: "Rethinking the Adaptation of Vision Foundation Models for Efficient Cell Segmentation"
     authors: "<u>Qing Xu</u>, Xiangjian He, Wenting Duan, Jiebo Luo, Zhen Chen"
@@ -180,7 +186,8 @@ main:
   - title: "DCSAU-Net: A deeper and more compact split-attention U-Net for medical image segmentation"
     authors: "<u>Qing Xu</u>, Zhicheng Ma, Wenting Duan."
     conference_short: "CIBM 2023"
-    conference: "Computers in Biology and Medicine <u>(ESI Highly Cited Paper, Top 1%)</u>"
+    conference: "Computers in Biology and Medicine <u>(ESI Highly Cited Paper, 500+ Citations)</u>"
+    selected: true
 
   - title: "Sppnet: A single-point prompt network for nuclei image segmentation"
     authors: "<u>Qing Xu</u>, Wenwei Kuang, Zeyu Zhang, Xueyao Bao, Haoran Chen, Wenting Duan"
